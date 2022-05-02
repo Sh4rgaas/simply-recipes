@@ -576,6 +576,21 @@ Recipes
 
 /*
 =============== 
+Error Page
+===============
+*/
+
+.error-page{
+  text-align: center;
+  padding-top: 5rem;
+}
+
+.error-page h1{
+  font-size: 9rem;
+}
+
+/*
+=============== 
 
 ===============
 */
